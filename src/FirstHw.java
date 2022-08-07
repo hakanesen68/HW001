@@ -1,6 +1,9 @@
 public class FirstHw {
-    public static void main(String[] args) {
         //TODO: Lütfen ekrana Merhaba Dünya! yazan bir java programı yazınız.
-        System.out.println("merhaba dünya!");
-    }
+        public static void main(String[] args) {
+            System.out.println("merhaba dünya! Nasılsın");//commit
+
+
+        }
+
 }
